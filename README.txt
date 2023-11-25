@@ -1,2 +1,2 @@
-# Portfolio
-Learning to code. HTML/CSS/JAVASCRIPT/PYTHON/DJANGO
+# Portfolio-Public
+All Public Projects.
