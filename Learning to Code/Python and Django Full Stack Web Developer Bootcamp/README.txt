@@ -1,2 +1,0 @@
-#Python and Django Full Stack Web Developer Bootcamp
-Udemy Coursework.
