@@ -1,4 +1,4 @@
-#Sample Projects
+#Sample Projects.
 #Projects to test my abilities.
 #This folder contains 12 Projects.
 Projects can be found on this video: https://www.youtube.com/watch?v=8ext9G7xspg
