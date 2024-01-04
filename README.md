@@ -1,4 +1,4 @@
-Hi 👋, I'm Dhaval Desai, I prefer to go by Damien
+Hi 👋, I'm Damien.
 I enjoy occasionally coding and learning new things.
 
 <h3 align="left">Connect with me:</h3>
